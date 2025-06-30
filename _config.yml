@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Pragati Shrivastava"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,23 +22,23 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "pragati-image.jpg"
+  name             : "Pragati Shrivastava"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Assistant Professor"
+  location         : ""
+  employer         : "Indian Institute of Technology Bhubneswar"
+  uri              : # URL 
+  email            : "pragati@iitbbs.ac.in" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=5u6yuZkAAAAJ&view_op=list_works&gmla=AH8HC4y5t-P5thhSEP8scgZVqdLfeN8-y7Hj3SiO44J3PLzbuBrm6A6xOqbh-REGA0QJT9xrLcNf4iOnQFgX-1yK"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-1948-9358"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.linkedin.com/in/pragatishrivatava/"
   researchgate     : # URL
   scopus           : # URL
 
@@ -132,20 +132,20 @@ yandex_site_verification :
 
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+#twitter:
+ # username               : &twitter
+#facebook:
+ # username               :
+  #app_id                 :
+  #publisher              :
+#og_image                 :  # Social media default site image
+#og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+#social:
+ # type                   : # Person or Organization (defaults to Person)
+ # name                   : # If the user or organization name differs from the site's name
+  #links: # An array of links to social media profiles
 
 
 # Analytics
