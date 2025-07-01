@@ -8,27 +8,27 @@ redirect_from:
 ---
 
 I am currently an Assistant Professor at the Department of Computer Science and Engineering IIT Bhubaneswar. 
-Ph.D. IIT Hyderabad, 2021
 
-Research Intersts
+Ph.D. IIT Hyderabad, 2021.
+
+M.Tech. CSE, ABV-IIITM Gwalior.
+
+B.E., IT, RGPV Bhopal.
+
+Research 
 ======
-Systems, Networks and Network Security, Currently exploring security problems in programmable networking. My [DBLP](https://dblp.org/pid/134/6717.html).
+My research interest lies in Systems, Networks and Network Security, Currently exploring security problems in programmable networking.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+[DBLP page](https://dblp.org/pid/134/6717.html).
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
-Getting started
+
+Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Assistant Professor, Department of CSE, IIT Bhubaneswar [July 2024- Ongoing]
+- Assistant Professor, Department of CSE, IIT Jammu [Jan 2024- July 2024]
+- Assistant Professor, Department of Computer Science anad Information Systems, BITS-PILANI Hyderabad Campus [Jan 2022- Jan 2024]
+
 
 Site-wide configuration
 ------
