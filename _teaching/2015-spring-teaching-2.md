@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Programming and Data Structueres Autumn 2024"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "IIT Bhubneswar, Dept. of CSE"
+date: 2024-08-01
 location: "City, Country"
 ---
 
