@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "PS"
 title_separator          : "-"
 name                     : &name "Pragati Shrivastava"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "pragatishrivastava/pragatishrivastava.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/p.jpeg"
+  avatar           : "/images/temp.jpg"
   name             : "Pragati Shrivastava"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
