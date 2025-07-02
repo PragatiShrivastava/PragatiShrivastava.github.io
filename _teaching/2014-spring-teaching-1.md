@@ -10,10 +10,10 @@ location: "Bhubaneswar, India"
 
 <!--This is a description of a teaching experience. You can use markdown like any other post.-->
 
-Undergraduate course, CSE IIT Bhubneswar.
-======
-
 Programming (Autumn 2025)
+======
+Undergraduate course, CSE IIT Bhubneswar.
+
 
 
 <!--Heading 3
