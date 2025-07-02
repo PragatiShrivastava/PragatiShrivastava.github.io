@@ -10,7 +10,7 @@ location: "Bhubaneswar, India"
 
 
 
-Programming and Data Structueres 
+Programming and Data Structures 
 ======
 Undergraduate course, CSE IIT Bhubneswar (Autumn 2024).
 
