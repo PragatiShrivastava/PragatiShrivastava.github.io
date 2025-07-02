@@ -20,8 +20,11 @@ Research
 ======
 My research interest lies in Systems, Networks and Network Security, Currently exploring security problems in programmable networking.
 
-[DBLP page](https://dblp.org/pid/134/6717.html).
+[DBLP](https://dblp.org/pid/134/6717.html).
 
+[Google Scholar](https://dblp.org/pid/134/6717.html](https://scholar.google.com/citations?hl=en&user=5u6yuZkAAAAJ&view_op=list_works&gmla=AH8HC4y5t-P5thhSEP8scgZVqdLfeN8-y7Hj3SiO44J3PLzbuBrm6A6xOqbh-REGA0QJT9xrLcNf4iOnQFgX-1yK).
+
+[LinKedin](https://dblp.org/pid/134/6717.html](https://in.linkedin.com/in/pragatishrivatava).
 
 
 Experience
