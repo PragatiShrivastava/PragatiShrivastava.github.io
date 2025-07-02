@@ -11,28 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in CSE, IIT Hyderabad, 2021 
+* M.Tech. in CSE, ABV-IITM Gwalior, 2013
+* B.E. in IT, RGPV Bhopal, 2010
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*  Current Position: Assistant Professor, Dept. of CSE IIT Bhubneswar (July 2024-ongoing)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* Assistant Professor Dept. of CSE IIT Jammu (Jan 2024 -July 2024)
+ 
+
+* Assistant Professor Dept. of CSIS BITS Pilani Hyderabad Campus (Jan 2022 -Jan 2024)
+  <!--
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+<!--Skills
 ======
 * Skill 1
 * Skill 2
