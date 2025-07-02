@@ -8,13 +8,13 @@ date: 2024-08-01
 location: "Bhubaneswar, India"
 ---
 
+
+
+Undergraduate courses, Department of CSE IIT Bhubneswar.
+======
 Programming and Data Structueres (Autumn 2024)
 
 Computer Networks (Spring 2025)
-
-Undergraduate course, Department of CSE IIT Bhubneswar.
-======
-
 
 <!--Heading 2
 ======
