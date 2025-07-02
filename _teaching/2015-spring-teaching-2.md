@@ -1,14 +1,14 @@
 ---
-title: "Current Course"
+title: "Past Course"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
-venue: "IIT Bhubneswar, Dept. of CSE"
+permalink: /teaching/2024-autumn-teaching-1
+venue: "IIT Bhubneswar, Deptartment of CSE"
 date: 2024-08-01
-location: "City, Country"
+location: "Bhubaneswar, India"
 ---
 
-Programming and Data Structueres (Autumn 2025)
+Programming and Data Structueres (Autumn 2024)
 
 
 ======
