@@ -8,9 +8,6 @@ date:
 location: "Bhubaneswar, India"
 ---
 
-Computer Networks (Spring 2025).
-
-Programming and Data Structures (Autumn 2024).
 
 Programming and Data Structures 
 ======
