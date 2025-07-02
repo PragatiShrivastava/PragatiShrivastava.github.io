@@ -10,9 +10,9 @@ location: "Bhubaneswar, India"
 
 <!--This is a description of a teaching experience. You can use markdown like any other post.-->
 
-Programming (Autumn 2025)
+Programming 
 ======
-Undergraduate course, CSE IIT Bhubneswar.
+Undergraduate course, CSE IIT Bhubneswar (Autumn 2025).
 
 
 
