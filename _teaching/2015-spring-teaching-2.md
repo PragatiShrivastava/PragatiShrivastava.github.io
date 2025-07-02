@@ -10,7 +10,7 @@ location: "Bhubaneswar, India"
 
 
 
-Undergraduate courses, Department of CSE IIT Bhubneswar.
+Undergraduate courses, CSE IIT Bhubneswar
 ======
 Programming and Data Structueres (Autumn 2024)
 
