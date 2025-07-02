@@ -8,9 +8,11 @@ date:
 location: "Bhubaneswar, India"
 ---
 
-Computer Networks Spring 2025).
+Computer Networks (Spring 2025).
 
 Programming and Data Structures (Autumn 2024).
+
+Programming and Data Structures 
 ======
 Undergraduate course, CSE IIT Bhubneswar (Autumn 2024).
 
