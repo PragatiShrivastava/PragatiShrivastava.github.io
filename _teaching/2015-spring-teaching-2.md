@@ -10,16 +10,11 @@ location: "Bhubaneswar, India"
 
 
 
-
-
-
 Programming and Data Structueres 
 ======
-
 Undergraduate course, CSE IIT Bhubneswar (Autumn 2024).
 
 
 Computer Networks 
 ======
-
 Undergraduate course, CSE IIT Bhubneswar (Spring 2025).
