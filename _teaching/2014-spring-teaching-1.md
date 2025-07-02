@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "IIT Bhubneswar, Department of CSE"
-date: 2025-01-01
+date: 2025-07-01
 location: "Bhubaneswar, India"
 ---
 
