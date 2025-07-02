@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="right" width="200" height="500" src="/images/pragati-image.jpg">
+<img align="right" width="200" height="400" src="/images/pragati-image.jpg">
 I am currently an Assistant Professor at the Department of Computer Science and Engineering IIT Bhubaneswar. 
 
 Ph.D. IIT Hyderabad, 2021.
