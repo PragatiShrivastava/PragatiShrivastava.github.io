@@ -23,8 +23,8 @@ My research interest lies in Systems, Networks and Network Security, Currently e
 I am looking for self motivated Ph.D. students, BTech/MTech/MS students and  interns with strong research aptitutude and excellent programming skills. If you are intersted to work with me as an PhD/Summer Intern/MTP/BTP, write to me with your updated cv.
 
 Links to my [DBLP](https://dblp.org/pid/134/6717.html) and
-[Google Scholar](https://dblp.org/pid/134/6717.html](https://scholar.google.com/citations?hl=en&user=5u6yuZkAAAAJ&view_op=list_works&gmla=AH8HC4y5t-P5thhSEP8scgZVqdLfeN8-y7Hj3SiO44J3PLzbuBrm6A6xOqbh-REGA0QJT9xrLcNf4iOnQFgX-1yK) profile, and my
-[LinKedin](https://dblp.org/pid/134/6717.html](https://in.linkedin.com/in/pragatishrivatava) profile.
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=5u6yuZkAAAAJ&view_op=list_works&gmla=AH8HC4y5t-P5thhSEP8scgZVqdLfeN8-y7Hj3SiO44J3PLzbuBrm6A6xOqbh-REGA0QJT9xrLcNf4iOnQFgX-1yK) profile, and my
+[LinKedin](https://in.linkedin.com/in/pragatishrivatava) profile.
 
 
 Experience
